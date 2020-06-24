@@ -126,7 +126,7 @@ def print_df_stats(df):
         print("----------------------------------------\n")
 
 def connectToSpotify():
-        username = 'oegf5b0k5eja1je32ue2ja31k'
+        #username = ''
 
         # Erase cache and prompt for user permission
         try:
